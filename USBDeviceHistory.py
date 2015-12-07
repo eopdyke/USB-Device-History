@@ -1,6 +1,6 @@
 # USBDeviceHistory.py
 # Eric Odpyke, Eric.Opdyke@CrowdStrike.com
-# Copyright 2015 CrowdStrike
+#
 #
 # ERIC OPDYKE licenses this file to you under the Apache License, Version
 # 2.0 (the "License"); you may not use this file except in compliance with the
