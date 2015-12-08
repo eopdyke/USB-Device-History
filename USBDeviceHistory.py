@@ -1,5 +1,5 @@
 # USBDeviceHistory.py
-# Eric Odpyke, Eric.Opdyke@CrowdStrike.com
+# Eric Odpyke
 #
 #
 # ERIC OPDYKE licenses this file to you under the Apache License, Version
